@@ -1,0 +1,5 @@
+conda env config vars set Server={cse414mathewvarghese}
+conda env config vars set DBName={cse414mathewvarghesedatabase}
+conda env config vars set UserID={mathewvarghese}
+conda env config vars set Password={Ultimaker2}
+
